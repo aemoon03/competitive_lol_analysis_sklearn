@@ -2,10 +2,10 @@
 DSC80 Project 5
 Our previous analylsis of this dataset: 
 
-##Framing the Problem
+## Framing the Problem
 
-##Baseline Model
+## Baseline Model
 
-##Final Model
+## Final Model
 
-##Fairness Analysis
+## Fairness Analysis
